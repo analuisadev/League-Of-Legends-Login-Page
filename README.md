@@ -3,11 +3,12 @@
 
 > Desktop Version 🖥️ 
 
-![Screenshot_14](https://user-images.githubusercontent.com/71856519/179835465-1ed9ec54-b72a-4320-b2c8-9ed5137e051b.png)
+![Screenshot_17](https://user-images.githubusercontent.com/71856519/179835754-ca47b356-f8d8-49ce-8e0b-c160ebbd449c.png)
+
 
 
 > Mobile Version 📱
 
-![Screenshot_16](https://user-images.githubusercontent.com/71856519/179835551-a5769038-d3cb-4524-a697-279fbf547a76.png)
+![Screenshot_14](https://user-images.githubusercontent.com/71856519/179835869-8649cf35-4ff2-4cd7-a800-076586d077e4.png)
 
 
